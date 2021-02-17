@@ -1,6 +1,12 @@
-# ELF
+# Ensuring Full Literacy Training Workshop
 
-# Content
+### Introduction to Deep Learning
+
+**Muhammad Abdul-Mageed & Chiyu Zhang**
+
+**Deep Learning & NLP Lab, The University of British Columbia**
+
+## Content
 
 
 | Data | Topic   | Slide                 | Jupyter Notebook |
